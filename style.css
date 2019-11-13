@@ -1,0 +1,34 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: hotpink;
+    
+   
+}
+.center{
+    text-align: center;
+
+
+}
+.center-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+
+}
+h3{
+    font: Helvetica;
+    margin: 10px;
+    
+    
+    color: green;
+}
+p{
+    margin: 30px 20px;
+    font-size: 30px;
+}
+footer{
+    font-size:30px;
+    color: hotpink;
+}
